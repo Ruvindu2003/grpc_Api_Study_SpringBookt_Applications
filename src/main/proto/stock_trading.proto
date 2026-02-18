@@ -4,8 +4,7 @@ package com.example.demo.proto;
 
 option java_package = "com.example.demo.proto";
 option java_outer_classname = "StockTradingProto";
-option java_multiple_files=true;
-option java_package="com.javatechie.grpc"
+option java_multiple_files = true;
 
 
 message StockRequest {
